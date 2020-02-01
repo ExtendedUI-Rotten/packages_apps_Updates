@@ -39,8 +39,8 @@ public final class Constants {
     static final String PROP_DEVICE = "org.extendedui.device";
     static final String PROP_BUILD_VERSION = "org.extendedui.version";
     static final String PROP_VERSION_CODE = "org.extendedui.ota.version_code";
-    static final String OTA_URL = "https://raw.githubusercontent.com/extended-ui-devices/official_devices/android_10/builds/%s.json";
-    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/extended-ui-devices/official_devices/android_10/changelogs/%s/%s.txt";
+    static final String OTA_URL = "https://raw.githubusercontent.com/extendedui-rotten/Updates/android_10/%s.json";
+    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/extendedui-rotten/Updates/android_10/changelogs/%s.txt";
     public static final String DOWNLOAD_PATH = "/data/system_updates/";
     static final String EXPORT_PATH = "extendedui-Updates/";
 }
